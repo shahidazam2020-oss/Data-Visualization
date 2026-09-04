@@ -45,7 +45,7 @@ Exploration of changes in global temperatures
 These projects provide practical experience in handling geographical and time-series data.
 
 ---
-❤️ 2. Healthcare Data Analysis
+# ❤️ 2. Healthcare Data Analysis
 
 The healthcare project focuses on exploring healthcare-related data and extracting useful information through data analysis and visualization.
 
