@@ -139,3 +139,20 @@ Scikit-learn
 Jupyter Notebook
 
 Additional libraries may be used depending on the requirements of individual projects.
+
+---
+📊 Visualization Techniques
+
+Different visualization techniques are used throughout the repository, including:
+
+Bar charts
+Line charts
+Scatter plots
+Histograms
+Pie charts
+Count plots
+Heatmaps
+Area charts
+Geographical visualizations
+
+These visualizations help transform complex datasets into information that is easier to understand.
