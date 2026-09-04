@@ -52,9 +52,7 @@ Data-Visualization/
 ├── healthcare-2016.csv
 └── superstore.csv
 
----
-
-## 🌍 1. Global Temperature Analysis
+🌍 1. Global Temperature Analysis
 
 The global temperature projects explore historical temperature data from different geographical locations.
 
