@@ -91,7 +91,7 @@ The repository also contains an Emotion Detection project.
 This project demonstrates the use of data analysis and machine learning techniques to work with emotion-related data.
 
 ---
-❤️‍🩹 5. Heart Attack Risk Prediction
+# ❤️‍🩹 5. Heart Attack Risk Prediction
 
 One of the major machine learning projects in this repository focuses on Heart Attack Risk Prediction.
 
