@@ -142,7 +142,7 @@ Jupyter Notebook
 Additional libraries may be used depending on the requirements of individual projects.
 
 ---
-📊 Visualization Techniques
+# 📊 Visualization Techniques
 
 Different visualization techniques are used throughout the repository, including:
 
