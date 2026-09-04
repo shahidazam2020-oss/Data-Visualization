@@ -10,15 +10,15 @@ Data-Visualization/
 ├── GlobalLandTemperaturesByState.csv
 ├── GlobalTemperatures.csv
 │
-├── QNo 1 Final Term Global Temperature.ipynb
-├── QNo 1 Final Term Health Care.ipynb
-├── QNo 1 Final Term Superstore.ipynb
+├── Global Temperature.ipynb
+├── Health Care.ipynb
+├── Superstore.ipynb
 │
-├── QNo 2 Final Term. Emotion_Detection.ipynb
+├── Emotion_Detection.ipynb
 │
-├── QNo 3 Data preprocessing.docx
-├── QNo 3 Heart_Attack_Risk_Levels_Dataset...
-├── QNo 3 Research_Code.ipynb
+├── Data preprocessing.docx
+├── Heart_Attack_Risk_Levels_Dataset...
+├── Research_Code.ipynb
 │
 ├── healthcare-2016.csv
 └── superstore.csv
@@ -84,6 +84,6 @@ Visualizations are used to make the results easier to understand and interpret.
 
 The repository also contains an Emotion Detection project.
 
-QNo 2 Final Term. Emotion_Detection.ipynb
+ Emotion_Detection.ipynb
 
 This project demonstrates the use of data analysis and machine learning techniques to work with emotion-related data.
