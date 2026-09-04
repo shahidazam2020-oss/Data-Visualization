@@ -124,7 +124,7 @@ Preparing datasets for visualization and machine learning
 The purpose is to ensure that the data is suitable for reliable analysis and modeling.
 
 ---
-🛠️ Technologies & Tools
+# 🛠️ Technologies & Tools
 
 The projects primarily use Python and popular data science libraries.
 
