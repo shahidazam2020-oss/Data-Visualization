@@ -80,6 +80,23 @@ Relationships between different variables
 Visualizations are used to make the results easier to understand and interpret.
 
 ---
+❤️‍🩹 5. Heart Attack Risk Prediction
+
+One of the major machine learning projects in this repository focuses on Heart Attack Risk Prediction.
+
+The project investigates how machine learning can be applied to healthcare data to identify patterns associated with heart attack risk.
+
+Main Areas
+Data preprocessing
+Feature analysis
+Handling data quality issues
+Machine learning
+Model evaluation
+Comparative analysis
+
+The project provides practical experience in applying a complete machine learning workflow to a healthcare-related dataset.
+
+---
 😊 4. Emotion Detection
 
 The repository also contains an Emotion Detection project.
