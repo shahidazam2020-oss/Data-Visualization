@@ -58,3 +58,23 @@ Data cleaning
 Statistical analysis
 Visualization
 Identifying patterns within healthcare data
+
+---
+🛒 3. Superstore Sales Analysis
+
+The Superstore project analyzes sales-related data to understand business performance and discover useful patterns.
+
+Dataset
+superstore.csv
+
+The project explores areas such as:
+
+Sales
+Profit
+Quantity
+Discount
+Product and category performance
+Business trends
+Relationships between different variables
+
+Visualizations are used to make the results easier to understand and interpret.
