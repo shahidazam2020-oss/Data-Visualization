@@ -173,7 +173,7 @@ Evaluating analytical and machine learning results
 Presenting data-driven findings clearly
 
 ---
-📌 Purpose of the Repository
+# 📌 Purpose of the Repository
 
 This repository serves as a collection of my academic work, practical exercises, and data science projects.
 
