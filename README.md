@@ -121,3 +121,21 @@ Feature preparation
 Preparing datasets for visualization and machine learning
 
 The purpose is to ensure that the data is suitable for reliable analysis and modeling.
+
+---
+🛠️ Technologies & Tools
+
+The projects primarily use Python and popular data science libraries.
+
+Programming Language
+Python
+Libraries & Tools
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Plotly
+Scikit-learn
+Jupyter Notebook
+
+Additional libraries may be used depending on the requirements of individual projects.
