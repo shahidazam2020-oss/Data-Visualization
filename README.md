@@ -184,16 +184,16 @@ Data Analysis → Data Visualization → Data Preprocessing → Machine Learning
 I believe that working with different datasets is one of the best ways to develop practical data science skills, and this repository documents that learning journey.
 
 ---
-## 👨‍💻 Author
+# 👨‍💻 Author
 
-Shahid Azam
+## Shahid Azam
 
-Python Programmer | Data Analysis & Visualization | Machine Learning
+## Python Programmer | Data Analysis & Visualization | Machine Learning
 
 This repository represents my practical work and learning in data science and related technologies.
 
 ---
-⭐ Feedback
+# ⭐ Feedback
 
 If you find any project useful or have suggestions for improvement, feel free to share your feedback.
 
