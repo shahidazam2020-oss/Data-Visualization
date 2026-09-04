@@ -107,3 +107,17 @@ Comparative analysis
 The project provides practical experience in applying a complete machine learning workflow to a healthcare-related dataset.
 
 ---
+🧹 Data Preprocessing
+
+Data preprocessing is an important part of the projects in this repository.
+
+The preprocessing work includes techniques such as:
+
+Handling missing values
+Removing duplicate records
+Detecting and handling outliers
+Data transformation
+Feature preparation
+Preparing datasets for visualization and machine learning
+
+The purpose is to ensure that the data is suitable for reliable analysis and modeling.
