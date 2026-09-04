@@ -108,7 +108,7 @@ Comparative analysis
 The project provides practical experience in applying a complete machine learning workflow to a healthcare-related dataset.
 
 ---
-🧹 Data Preprocessing
+# 🧹 Data Preprocessing
 
 Data preprocessing is an important part of the projects in this repository.
 
