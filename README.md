@@ -171,3 +171,14 @@ Identifying trends and patterns
 Applying machine learning techniques
 Evaluating analytical and machine learning results
 Presenting data-driven findings clearly
+
+---
+📌 Purpose of the Repository
+
+This repository serves as a collection of my academic work, practical exercises, and data science projects.
+
+It also reflects my continuous learning and development in the areas of:
+
+Data Analysis → Data Visualization → Data Preprocessing → Machine Learning
+
+I believe that working with different datasets is one of the best ways to develop practical data science skills, and this repository documents that learning journey.
