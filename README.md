@@ -17,7 +17,7 @@ Data-Visualization/
 ├── Emotion_Detection.ipynb
 │
 ├── Data preprocessing.docx
-├── Heart_Attack_Risk_Levels_Dataset...
+├── Heart_Attack_Risk_Levels_Dataset...---
 ├── Research_Code.ipynb
 │
 ├── healthcare-2016.csv
@@ -25,6 +25,7 @@ Data-Visualization/
 ```
 
 ---
+
 🌍 1. Global Temperature Analysis
 
 The global temperature projects explore historical temperature data from different geographical locations.
@@ -156,3 +157,17 @@ Area charts
 Geographical visualizations
 
 These visualizations help transform complex datasets into information that is easier to understand.
+
+---
+🎯 Learning Objectives
+
+Through these projects, I have developed practical experience in:
+
+Understanding real-world datasets
+Cleaning and preprocessing data
+Performing exploratory data analysis
+Creating meaningful data visualizations
+Identifying trends and patterns
+Applying machine learning techniques
+Evaluating analytical and machine learning results
+Presenting data-driven findings clearly
