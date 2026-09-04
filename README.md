@@ -69,3 +69,19 @@ Data visualization using charts and geographical visualizations
 Exploration of changes in global temperatures
 
 These projects provide practical experience in handling geographical and time-series data.
+
+---
+❤️ 2. Healthcare Data Analysis
+
+The healthcare project focuses on exploring healthcare-related data and extracting useful information through data analysis and visualization.
+
+Dataset
+healthcare-2016.csv
+
+The analysis demonstrates techniques for:
+
+Data exploration
+Data cleaning
+Statistical analysis
+Visualization
+Identifying patterns within healthcare data
