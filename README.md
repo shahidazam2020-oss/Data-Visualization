@@ -82,7 +82,7 @@ Visualizations are used to make the results easier to understand and interpret.
 
 ---
 
-😊 4. Emotion Detection
+# 😊 4. Emotion Detection
 
 The repository also contains an Emotion Detection project.
 
