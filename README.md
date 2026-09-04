@@ -78,3 +78,12 @@ Business trends
 Relationships between different variables
 
 Visualizations are used to make the results easier to understand and interpret.
+
+---
+😊 4. Emotion Detection
+
+The repository also contains an Emotion Detection project.
+
+QNo 2 Final Term. Emotion_Detection.ipynb
+
+This project demonstrates the use of data analysis and machine learning techniques to work with emotion-related data.
