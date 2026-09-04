@@ -25,3 +25,20 @@ Data-Visualization/
 ```
 
 ---
+🌍 1. Global Temperature Analysis
+
+The global temperature projects explore historical temperature data from different geographical locations.
+
+Datasets
+GlobalTemperatures.csv
+GlobalLandTemperaturesByCountry.csv
+GlobalLandTemperaturesByState.csv
+Analysis Includes
+Temperature trends over time
+Country-level temperature analysis
+State/province-level analysis
+Yearly average temperature
+Data visualization using charts and geographical visualizations
+Exploration of changes in global temperatures
+
+These projects provide practical experience in handling geographical and time-series data.
