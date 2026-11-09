@@ -1,251 +1,462 @@
-## 📂 Repository Structure
+<div align="center">
+
+# 📊 DATA VISUALIZATION & MACHINE LEARNING
+
+### Transforming Data into Meaningful Insights
+
+**Exploratory Data Analysis | Data Visualization | Machine Learning | Python Development**
+
+<br>
+
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Computing-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-ML-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+<br>
+
+[📂 Explore Projects](#-project-dashboard) •
+[🛠️ Technologies](#️-technology-stack) •
+[📸 Gallery](#-project-visualization-gallery) •
+[🚀 Installation](#-installation--setup) •
+[👨‍💻 Developer](#-about-the-developer)
+
+<br>
+
+[![GitHub Stars](https://img.shields.io/github/stars/shahidazam2020-oss/Data-Visualization?style=social)](https://github.com/shahidazam2020-oss/Data-Visualization/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/shahidazam2020-oss/Data-Visualization?style=social)](https://github.com/shahidazam2020-oss/Data-Visualization/forks)
+
+</div>
+
+---
+
+## 📌 About This Repository
+
+Welcome to my **Data Visualization & Machine Learning Repository**.
+
+This repository showcases academic and practical projects developed using Python, Jupyter Notebook, and popular data science libraries.
+
+It demonstrates practical approaches to data exploration, preprocessing, statistical analysis, visualization, and machine learning.
+
+### 🎯 Core Focus Areas
+
+| Area | Description |
+|:---|:---|
+| 📊 Data Visualization | Creating meaningful graphical representations |
+| 🔍 Exploratory Data Analysis | Discovering patterns and relationships |
+| 🧹 Data Preprocessing | Cleaning and preparing datasets |
+| 🤖 Machine Learning | Applying predictive modeling techniques |
+| 🏥 Healthcare Analytics | Exploring healthcare-related datasets |
+| 🌍 Environmental Analytics | Analyzing global temperature information |
+| 🛒 Business Analytics | Exploring sales and business performance |
+
+---
+
+# 📊 PROJECT DASHBOARD
+
+| # | Project | Domain | Resources |
+|:---:|:---|:---|:---:|
+| 01 | 🌍 Global Temperature Analysis | Environmental Analytics | [Notebook](https://github.com/shahidazam2020-oss/Data-Visualization/blob/master/QNo%201%20Final%20Term%20Global%20Temperature.ipynb) |
+| 02 | 🏥 Healthcare Data Analysis | Healthcare Analytics | [Notebook](https://github.com/shahidazam2020-oss/Data-Visualization/blob/master/QNo%201%20Final%20Term%20Health%20Care.ipynb) |
+| 03 | 🛒 Superstore Sales Analysis | Business Analytics | [Notebook](https://github.com/shahidazam2020-oss/Data-Visualization/blob/master/QNo%201Final%20Term%20Superstore.ipynb) |
+| 04 | 😊 Emotion Detection | Machine Learning | [Notebook](https://github.com/shahidazam2020-oss/Data-Visualization/blob/master/QNo%202%20Final%20Term.%20Emotion_Detection.ipynb) |
+| 05 | ❤️ Heart Attack Risk Prediction | Healthcare AI | [Notebook](https://github.com/shahidazam2020-oss/Data-Visualization/blob/master/QNo%203%20Research_Code.ipynb) |
+| 06 | 🧹 Data Preprocessing | Data Engineering | [Documentation](https://github.com/shahidazam2020-oss/Data-Visualization/blob/master/QNo%203%20Data%20preprocessing.docx) |
+
+---
+
+# 🔬 PROJECT DETAILS
+
+## 🌍 01. Global Temperature Analysis
+
+**Domain:** Environmental Data Analytics
+
+Exploration of historical global temperature datasets to investigate temperature patterns across geographical regions.
+
+**Datasets:**
+- GlobalTemperatures.csv
+- GlobalLandTemperaturesByCountry.csv
+- GlobalLandTemperaturesByState.csv
+
+**Key Areas:**
+- Historical temperature exploration.
+- Country-level temperature analysis.
+- State and province-level analysis.
+- Temperature trends over time.
+- Geographical visualization.
+
+📓 [Explore Project Notebook](https://github.com/shahidazam2020-oss/Data-Visualization/blob/master/QNo%201%20Final%20Term%20Global%20Temperature.ipynb)
+
+---
+
+## 🏥 02. Healthcare Data Analysis
+
+**Domain:** Healthcare Analytics
+
+An analytical project focused on exploring healthcare-related information through statistical analysis and visualization.
+
+**Dataset:** healthcare-2016.csv
+
+**Key Areas:**
+- Dataset exploration.
+- Data cleaning and preparation.
+- Statistical analysis.
+- Pattern identification.
+- Healthcare data visualization.
+
+📓 [Explore Project Notebook](https://github.com/shahidazam2020-oss/Data-Visualization/blob/master/QNo%201%20Final%20Term%20Health%20Care.ipynb)
+
+---
+
+## 🛒 03. Superstore Sales Analysis
+
+**Domain:** Business Intelligence
+
+An exploratory analysis of business and sales information to understand performance and identify meaningful patterns.
+
+**Dataset:** superstore.csv
+
+**Key Areas:**
+- Sales performance.
+- Profit analysis.
+- Product and category analysis.
+- Quantity and discount exploration.
+- Business trends.
+- Data visualization.
+
+📓 [Explore Project Notebook](https://github.com/shahidazam2020-oss/Data-Visualization/blob/master/QNo%201Final%20Term%20Superstore.ipynb)
+
+---
+
+## 😊 04. Emotion Detection
+
+**Domain:** Machine Learning
+
+An academic project involving emotion-related data and machine learning experimentation.
+
+**Key Areas:**
+- Data exploration.
+- Data preparation.
+- Emotion category analysis.
+- Machine learning experimentation.
+
+📓 [Explore Project Notebook](https://github.com/shahidazam2020-oss/Data-Visualization/blob/master/QNo%202%20Final%20Term.%20Emotion_Detection.ipynb)
+
+---
+
+## ❤️ 05. Heart Attack Risk Prediction
+
+**Domain:** Healthcare AI & Predictive Modeling
+
+A machine learning project investigating patterns in heart attack risk-related information.
+
+**Project Resources:**
+- Research_Code.ipynb
+- Heart Attack Risk Levels Dataset
+
+**Key Areas:**
+- Data preprocessing.
+- Feature exploration.
+- Machine learning experimentation.
+- Model evaluation.
+- Comparative analysis.
+
+📓 [Explore Research Notebook](https://github.com/shahidazam2020-oss/Data-Visualization/blob/master/QNo%203%20Research_Code.ipynb)
+
+---
+
+## 🧹 06. Data Preprocessing
+
+**Domain:** Data Preparation & Quality
+
+Documentation covering data preparation concepts and techniques used in analytical workflows.
+
+**Key Areas:**
+- Handling missing values.
+- Removing duplicate records.
+- Outlier identification.
+- Data transformation.
+- Feature preparation.
+- Dataset preparation.
+
+📄 [Read Documentation](https://github.com/shahidazam2020-oss/Data-Visualization/blob/master/QNo%203%20Data%20preprocessing.docx)
+
+---
+
+# 📸 PROJECT VISUALIZATION GALLERY
+
+Explore the visual outputs generated through different analytical projects.
+
+> Add your actual notebook screenshots to the `assets/screenshots/` directory using the suggested filenames below.
+
+### 🌍 Global Temperature Analysis
+
+![Global Temperature Analysis](assets/screenshots/global-temperature.png)
+
+### 🏥 Healthcare Data Analysis
+
+![Healthcare Analysis](assets/screenshots/healthcare-analysis.png)
+
+### 🛒 Superstore Sales Analysis
+
+![Superstore Sales Analysis](assets/screenshots/superstore-analysis.png)
+
+### 😊 Emotion Detection
+
+![Emotion Detection](assets/screenshots/emotion-detection.png)
+
+### ❤️ Heart Attack Risk Prediction
+
+![Heart Attack Risk Prediction](assets/screenshots/heart-attack-prediction.png)
+
+---
+
+# 🛠️ TECHNOLOGY STACK
+
+<div align="center">
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### Data Processing
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+### Visualization
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-4C72B0?style=flat-square)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+
+### Machine Learning
+
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+### Development Environment
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+# 📂 RECOMMENDED PROJECT STRUCTURE
+
+For better organization and maintainability, the repository can be structured as follows:
 
 ```text
 Data-Visualization/
 │
-├── test/
-├── train/
+├── 📂 projects/
+│   ├── 📂 global-temperature/
+│   │   └── analysis.ipynb
+│   │
+│   ├── 📂 healthcare/
+│   │   └── analysis.ipynb
+│   │
+│   ├── 📂 superstore/
+│   │   └── analysis.ipynb
+│   │
+│   ├── 📂 emotion-detection/
+│   │   └── analysis.ipynb
+│   │
+│   └── 📂 heart-attack-prediction/
+│       └── research.ipynb
 │
-├── GlobalLandTemperaturesByCountry.csv
-├── GlobalLandTemperaturesByState.csv
-├── GlobalTemperatures.csv
+├── 📂 datasets/
+│   ├── global-temperature/
+│   ├── healthcare/
+│   ├── superstore/
+│   └── heart-attack/
 │
-├── Global Temperature.ipynb
-├── Health Care.ipynb
-├── Superstore.ipynb
+├── 📂 assets/
+│   └── 📂 screenshots/
+│       ├── global-temperature.png
+│       ├── healthcare-analysis.png
+│       ├── superstore-analysis.png
+│       ├── emotion-detection.png
+│       └── heart-attack-prediction.png
 │
-├── Emotion_Detection.ipynb
+├── 📂 docs/
+│   └── data-preprocessing.docx
 │
-├── Data preprocessing.docx
-├── Heart_Attack_Risk_Levels_Dataset...---
-├── Research_Code.ipynb
-│
-├── healthcare-2016.csv
-└── superstore.csv
+├── 📄 requirements.txt
+├── 📄 .gitignore
+└── 📄 README.md
 ```
 
----
-
-# 🌍 1. Global Temperature Analysis
-
-**The global temperature projects explore historical temperature data from different geographical locations.**
-
-Datasets
-GlobalTemperatures.csv
-GlobalLandTemperaturesByCountry.csv
-GlobalLandTemperaturesByState.csv
-Analysis Includes
-Temperature trends over time
-Country-level temperature analysis
-State/province-level analysis
-Yearly average temperature
-Data visualization using charts and geographical visualizations
-Exploration of changes in global temperatures
-
-**These projects provide practical experience in handling geographical and time-series data.**
-
----
-# ❤️ 2. Healthcare Data Analysis
-
-**The healthcare project focuses on exploring healthcare-related data and extracting useful information through data analysis and visualization.**
-
-Dataset
-healthcare-2016.csv
-
-**The analysis demonstrates techniques for:**
-
-Data exploration
-Data cleaning
-Statistical analysis
-Visualization
-Identifying patterns within healthcare data
-
----
-# 🛒 3. Superstore Sales Analysis
-
-**The Superstore project analyzes sales-related data to understand business performance and discover useful patterns.**
-
-Dataset
-superstore.csv
-
-**The project explores areas such as:**
-
-Sales
-Profit
-Quantity
-Discount
-Product and category performance
-Business trends
-Relationships between different variables
-
-**Visualizations are used to make the results easier to understand and interpret.**
+*Note: This is a recommended future organization. Your existing files should be moved into these folders before treating this as the actual repository structure. Update notebook dataset paths and README links after moving files.*
 
 ---
 
-# 😊 4. Emotion Detection
+# 📦 DEPENDENCIES
 
-**The repository also contains an Emotion Detection project.**
+The projects use Python and commonly used data science libraries.
 
- Emotion_Detection.ipynb
+Create a `requirements.txt` file in the repository root.
 
-**This project demonstrates the use of data analysis and machine learning techniques to work with emotion-related data.**
+**Suggested requirements.txt:**
 
----
-# ❤️‍🩹 5. Heart Attack Risk Prediction
+```text
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+scikit-learn
+jupyter
+notebook
+opencv-python
+```
 
-**One of the major machine learning projects in this repository focuses on Heart Attack Risk Prediction.**
-
-**The project investigates how machine learning can be applied to healthcare data to identify patterns associated with heart attack risk.**
-
-Main Areas
-Data preprocessing
-Feature analysis
-Handling data quality issues
-Machine learning
-Model evaluation
-Comparative analysis
-
-**The project provides practical experience in applying a complete machine learning workflow to a healthcare-related dataset.**
+Additional dependencies may be required by individual notebooks.
 
 ---
-# 🧹 Data Preprocessing
 
-**Data preprocessing is an important part of the projects in this repository.**
+# 🚀 INSTALLATION & SETUP
 
-The preprocessing work includes techniques such as:
+### 1. Clone Repository
 
-Handling missing values
-Removing duplicate records
-Detecting and handling outliers
-Data transformation
-Feature preparation
-Preparing datasets for visualization and machine learning
+```bash
+git clone https://github.com/shahidazam2020-oss/Data-Visualization.git
+```
 
-**The purpose is to ensure that the data is suitable for reliable analysis and modeling.**
+### 2. Open Project Directory
 
----
-# 🛠️ Technologies & Tools
+```bash
+cd Data-Visualization
+```
 
-**The projects primarily use Python and popular data science libraries.**
+### 3. Create Virtual Environment
 
-Programming Language
-Python
-Libraries & Tools
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Plotly
-Scikit-learn
-Jupyter Notebook
+```bash
+python -m venv venv
+```
 
-**Additional libraries may be used depending on the requirements of individual projects.**
+### 4. Activate Environment
 
----
-# 📊 Visualization Techniques
+**Windows:**
 
-**Different visualization techniques are used throughout the repository, including:**
+```bash
+venv\Scripts\activate
+```
 
-Bar charts
-Line charts
-Scatter plots
-Histograms
-Pie charts
-Count plots
-Heatmaps
-Area charts
-Geographical visualizations
+**Linux / macOS:**
 
-**These visualizations help transform complex datasets into information that is easier to understand.**
+```bash
+source venv/bin/activate
+```
 
----
-# 🎯 Learning Objectives
+### 5. Install Dependencies
 
-**Through these projects, I have developed practical experience in:**
+```bash
+pip install -r requirements.txt
+```
 
-Understanding real-world datasets
-Cleaning and preprocessing data
-Performing exploratory data analysis
-Creating meaningful data visualizations
-Identifying trends and patterns
-Applying machine learning techniques
-Evaluating analytical and machine learning results
-Presenting data-driven findings clearly
+### 6. Launch Jupyter Notebook
+
+```bash
+jupyter notebook
+```
+
+### 7. Explore Projects
+
+Open the desired notebook and execute its cells.
 
 ---
-# 📌 Purpose of the Repository
 
-This repository serves as a collection of my academic work, practical exercises, and data science projects.
+# 📊 VISUALIZATION TECHNIQUES
 
-It also reflects my continuous learning and development in the areas of:
-
-Data Analysis → Data Visualization → Data Preprocessing → Machine Learning
-
-I believe that working with different datasets is one of the best ways to develop practical data science skills, and this repository documents that learning journey.
-
----
-## 👨‍💻 About the Developer
-
-<div align="center">
-
-# Shahid Azam
-
-**Computer Science | Artificial Intelligence | Database Projects**
-
-I am a Computer Science graduate with an interest in Artificial Intelligence, Machine Learning, Python development, and practical software projects.
-
-<br>
-
-<a href="https://github.com/shahidazam2020-oss">
-<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub">
-</a>
-
-<a href="https://www.linkedin.com/in/shahid-azam-mughal-787b58235">
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
-</a>
-
-<a href="https://github.com/shahidazam2020-oss">
-<img src="https://img.shields.io/badge/Explore-My%20Repositories-238636?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories">
-</a>
-
-</div>
+| Technique | Application |
+|:---|:---|
+| 📊 Bar Charts | Category comparisons |
+| 📉 Line Charts | Trend analysis |
+| 🔵 Scatter Plots | Variable relationships |
+| 📦 Histograms | Data distributions |
+| 🥧 Pie Charts | Proportional analysis |
+| 🔥 Heatmaps | Correlation analysis |
+| 🌐 Geographical Charts | Regional exploration |
+| 📈 Area Charts | Changes over time |
 
 ---
-## 🤝 Contributing
 
-**Suggestions and improvements are welcome.**
+# 🎯 KEY LEARNING OUTCOMES
 
-**If you would like to contribute:**
+- Exploratory Data Analysis (EDA).
+- Data Cleaning & Preprocessing.
+- Statistical Data Visualization.
+- Time-Series Analysis.
+- Geographical Data Exploration.
+- Machine Learning Fundamentals.
+- Pattern Identification.
+- Analytical Result Interpretation.
+
+---
+
+# 🤝 CONTRIBUTIONS
+
+Contributions, suggestions, and improvements are welcome!
 
 1. Fork this repository.
 2. Create a new branch.
-3. Make your changes.
-4. Test your modifications.
-5. Submit a pull request describing your improvements.
-
----
-## 📜 License
-
-A license has not been specified for this project.
-
-If you intend to make the source and project available for reuse, consider adding an appropriate open-source license. Until then, do not assume that others have permission to redistribute or modify the project.
+3. Implement your improvements.
+4. Test your changes.
+5. Submit a Pull Request.
 
 ---
 
-# ⭐ Feedback
+# 📜 LICENSE
 
-If you find any project useful or have suggestions for improvement, feel free to share your feedback.
+No license is currently specified for this repository.
 
-Thank you for visiting this repository!
+Please contact the repository owner regarding permissions before redistributing or reusing its contents.
 
 ---
-## ⭐ If you find this project interesting, consider starring the repository!
 
- | Developed by Shahid Azam
+# 👨‍💻 ABOUT THE DEVELOPER
 
-Learning, building, and improving through practical software projects.
+<div align="center">
+
+## Shahid Azam
+
+**MS Computer Science | Artificial Intelligence**
+
+Institute of Management Sciences, Peshawar, Pakistan
+
+Interested in Artificial Intelligence, Machine Learning, Python Development, Research, and practical technology solutions.
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/shahidazam2020-oss)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shahid-azam-mughal-787b58235)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=researchgate)](https://www.researchgate.net/profile/Shahid-Azam-5)
+[![ORCID](https://img.shields.io/badge/ORCID-Profile-A6CE39?style=for-the-badge&logo=orcid)](https://orcid.org/0009-0001-6825-8863)
 
 </div>
 
 ---
-# ⭐ Support
+
+<div align="center">
+
+# ⭐ SUPPORT THIS PROJECT
+
+If you find this repository useful:
+
+- ⭐ Give it a star.
+- 🍴 Fork the repository.
+- 💬 Share feedback.
+- 🤝 Contribute improvements.
+
+### 💡 Learn • Explore • Visualize • Innovate
+
+**Transforming Data into Knowledge Through Practical Projects.**
+
+Developed with ❤️ by **Shahid Azam**
+
+[⬆ Back to Top](#-data-visualization--machine-learning)
+
+</div>
