@@ -295,7 +295,7 @@ Data-Visualization/
 
 # 📦 DEPENDENCIES
 
-The projects use Python and commonly used data science libraries.
+**The projects use Python and commonly used data science libraries.**
 
 Create a `requirements.txt` file in the repository root.
 
