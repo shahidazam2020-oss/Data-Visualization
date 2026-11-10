@@ -35,7 +35,7 @@
 
 Welcome to my **Data Visualization & Machine Learning Repository**.
 
-This repository showcases academic and practical projects developed using Python, Jupyter Notebook, and popular data science libraries.
+**This repository showcases academic and practical projects developed using Python, Jupyter Notebook, and popular data science libraries.**
 
 It demonstrates practical approaches to data exploration, preprocessing, statistical analysis, visualization, and machine learning.
 
