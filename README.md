@@ -113,7 +113,7 @@ An analytical project focused on exploring healthcare-related information throug
 
 **Domain:** Business Intelligence
 
-An exploratory analysis of business and sales information to understand performance and identify meaningful patterns.
+**An exploratory analysis of business and sales information to understand performance and identify meaningful patterns.**
 
 **Dataset:** superstore.csv
 
