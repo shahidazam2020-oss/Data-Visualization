@@ -246,7 +246,7 @@ Welcome to my **Data Visualization & Machine Learning Repository**.
 
 # 📂 RECOMMENDED PROJECT STRUCTURE
 
-For better organization and maintainability, the repository can be structured as follows:
+**For better organization and maintainability, the repository can be structured as follows:**
 
 ```text
 Data-Visualization/
