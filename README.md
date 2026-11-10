@@ -72,7 +72,7 @@ Welcome to my **Data Visualization & Machine Learning Repository**.
 
 **Domain:** Environmental Data Analytics
 
-Exploration of historical global temperature datasets to investigate temperature patterns across geographical regions.
+**Exploration of historical global temperature datasets to investigate temperature patterns across geographical regions.**
 
 **Datasets:**
 - GlobalTemperatures.csv
