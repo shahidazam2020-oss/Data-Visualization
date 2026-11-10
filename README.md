@@ -313,7 +313,7 @@ notebook
 opencv-python
 ```
 
-Additional dependencies may be required by individual notebooks.
+**Additional dependencies may be required by individual notebooks.**
 
 ---
 
