@@ -94,7 +94,7 @@ Welcome to my **Data Visualization & Machine Learning Repository**.
 
 **Domain:** Healthcare Analytics
 
-An analytical project focused on exploring healthcare-related information through statistical analysis and visualization.
+**An analytical project focused on exploring healthcare-related information through statistical analysis and visualization.**
 
 **Dataset:** healthcare-2016.csv
 
