@@ -170,7 +170,7 @@ Welcome to my **Data Visualization & Machine Learning Repository**.
 
 **Domain:** Data Preparation & Quality
 
-Documentation covering data preparation concepts and techniques used in analytical workflows.
+**Documentation covering data preparation concepts and techniques used in analytical workflows.**
 
 **Key Areas:**
 - Handling missing values.
