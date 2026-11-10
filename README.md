@@ -149,7 +149,7 @@ Welcome to my **Data Visualization & Machine Learning Repository**.
 
 **Domain:** Healthcare AI & Predictive Modeling
 
-A machine learning project investigating patterns in heart attack risk-related information.
+**A machine learning project investigating patterns in heart attack risk-related information.**
 
 **Project Resources:**
 - Research_Code.ipynb
