@@ -365,7 +365,7 @@ jupyter notebook
 
 ### 7. Explore Projects
 
-Open the desired notebook and execute its cells.
+**Open the desired notebook and execute its cells.**
 
 ---
 
