@@ -289,7 +289,7 @@ Data-Visualization/
 └── 📄 README.md
 ```
 
-*Note: This is a recommended future organization. Your existing files should be moved into these folders before treating this as the actual repository structure. Update notebook dataset paths and README links after moving files.*
+**Note: This is a recommended future organization. Your existing files should be moved into these folders before treating this as the actual repository structure. Update notebook dataset paths and README links after moving files.**
 
 ---
 
