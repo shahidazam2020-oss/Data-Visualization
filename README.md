@@ -297,7 +297,7 @@ Data-Visualization/
 
 **The projects use Python and commonly used data science libraries.**
 
-Create a `requirements.txt` file in the repository root.
+**Create a `requirements.txt` file in the repository root.**
 
 **Suggested requirements.txt:**
 
