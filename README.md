@@ -186,7 +186,7 @@ Welcome to my **Data Visualization & Machine Learning Repository**.
 
 # 📸 PROJECT VISUALIZATION GALLERY
 
-Explore the visual outputs generated through different analytical projects.
+**Explore the visual outputs generated through different analytical projects.**
 
 > Add your actual notebook screenshots to the `assets/screenshots/` directory using the suggested filenames below.
 
