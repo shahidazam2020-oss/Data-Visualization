@@ -399,7 +399,7 @@ jupyter notebook
 
 # 🤝 CONTRIBUTIONS
 
-Contributions, suggestions, and improvements are welcome!
+**Contributions, suggestions, and improvements are welcome!**
 
 1. Fork this repository.
 2. Create a new branch.
