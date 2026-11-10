@@ -133,7 +133,7 @@ Welcome to my **Data Visualization & Machine Learning Repository**.
 
 **Domain:** Machine Learning
 
-An academic project involving emotion-related data and machine learning experimentation.
+**An academic project involving emotion-related data and machine learning experimentation.**
 
 **Key Areas:**
 - Data exploration.
