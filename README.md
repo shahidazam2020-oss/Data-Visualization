@@ -444,7 +444,7 @@ Interested in Artificial Intelligence, Machine Learning, Python Development, Res
 
 # ⭐ SUPPORT THIS PROJECT
 
-If you find this repository useful:
+**If you find this repository useful:**
 
 - ⭐ Give it a star.
 - 🍴 Fork the repository.
