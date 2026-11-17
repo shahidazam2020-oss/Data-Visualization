@@ -26,7 +26,7 @@
 
 [![GitHub Stars](https://img.shields.io/github/stars/shahidazam2020-oss/Data-Visualization?style=social)](https://github.com/shahidazam2020-oss/Data-Visualization/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/shahidazam2020-oss/Data-Visualization?style=social)](https://github.com/shahidazam2020-oss/Data-Visualization/forks)
-
+<img src="https://img.shields.io/github/last-commit/shahidazam2020-oss/Machine-Learning-Roadmap?style=flat-square" alt="GitHub Last Commit">
 </div>
 
 ---
