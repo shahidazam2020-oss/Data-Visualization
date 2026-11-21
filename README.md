@@ -450,3 +450,7 @@ If this project helps you understand machine learning for healthcare prediction,
 🐛 **Opening an issue**
 
 💡 **Sharing suggestions**
+
+🤝 **Contributing improvements**
+
+---
