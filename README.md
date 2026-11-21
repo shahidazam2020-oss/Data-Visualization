@@ -428,17 +428,6 @@ Interested in Artificial Intelligence, Machine Learning, Python Development, Res
 
 ---
 
-<div align="center">
-
-# ⭐ SUPPORT THIS PROJECT
-
-**If you find this repository useful:**
-
-- ⭐ Give it a star.
-- 🍴 Fork the repository.
-- 💬 Share feedback.
-- 🤝 Contribute improvements.
-
 ### 💡 Learn • Explore • Visualize • Innovate
 
 **Transforming Data into Knowledge Through Practical Projects.**
