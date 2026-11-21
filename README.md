@@ -397,18 +397,6 @@ jupyter notebook
 
 ---
 
-# 🤝 CONTRIBUTIONS
-
-**Contributions, suggestions, and improvements are welcome!**
-
-1. Fork this repository.
-2. Create a new branch.
-3. Implement your improvements.
-4. Test your changes.
-5. Submit a Pull Request.
-
----
-
 # 📜 LICENSE
 
 No license is currently specified for this repository.
