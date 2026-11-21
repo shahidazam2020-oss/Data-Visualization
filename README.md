@@ -442,3 +442,5 @@ Developed with ❤️ by **Shahid Azam**
 # ⭐ If You Find This Project Useful
 
 If this project helps you understand machine learning for healthcare prediction, consider:
+
+⭐ **Starring the repository**
