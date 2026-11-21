@@ -30,7 +30,11 @@
 </div>
 
 ---
+<a href="https://gitarena.dev/u/shahidazam2020-oss">
+  <img src="https://gitarena.dev/api/badge/shahidazam2020-oss?timeframe=total&theme=light&color=purple" alt="GitArena Stats" width="540" height="210" />
+</a>
 
+---
 ## 📌 About This Repository
 
 Welcome to my **Data Visualization & Machine Learning Repository**.
