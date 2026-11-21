@@ -5,6 +5,9 @@
   <img src="https://gitarena.dev/api/badge/shahidazam2020-oss?timeframe=total&theme=light&color=purple" alt="GitArena Stats" width="540" height="210" />
 </a>
 
+<a href="https://gitarena.dev/u/shahidazam2020-oss">
+  <img src="https://gitarena.dev/api/badge/shahidazam2020-oss/graph?theme=light&color=purple" alt="GitArena Contributions" width="540" height="175" />
+</a>
 ---
 
 # 📊 DATA VISUALIZATION & MACHINE LEARNING
