@@ -1,5 +1,12 @@
 <div align="center">
 
+---
+<a href="https://gitarena.dev/u/shahidazam2020-oss">
+  <img src="https://gitarena.dev/api/badge/shahidazam2020-oss?timeframe=total&theme=light&color=purple" alt="GitArena Stats" width="540" height="210" />
+</a>
+
+---
+
 # 📊 DATA VISUALIZATION & MACHINE LEARNING
 
 ### Transforming Data into Meaningful Insights
@@ -28,11 +35,6 @@
 [![GitHub Forks](https://img.shields.io/github/forks/shahidazam2020-oss/Data-Visualization?style=social)](https://github.com/shahidazam2020-oss/Data-Visualization/forks)
 <img src="https://img.shields.io/github/last-commit/shahidazam2020-oss/Machine-Learning-Roadmap?style=flat-square" alt="GitHub Last Commit">
 </div>
-
----
-<a href="https://gitarena.dev/u/shahidazam2020-oss">
-  <img src="https://gitarena.dev/api/badge/shahidazam2020-oss?timeframe=total&theme=light&color=purple" alt="GitArena Stats" width="540" height="210" />
-</a>
 
 ---
 ## 📌 About This Repository
