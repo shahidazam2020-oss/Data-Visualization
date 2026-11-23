@@ -468,3 +468,4 @@ If this project helps you understand machine learning for healthcare prediction,
 </p>
 
 <p align="center">
+  Made with ❤️ for learning, experimentation, and continuous improvement.
